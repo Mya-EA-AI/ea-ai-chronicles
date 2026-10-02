@@ -5,6 +5,7 @@ Welcome! This space documents an evolving journey at the intersection of Executi
 I’m rolling out posts, frameworks, and insights over time—blending high-level strategy and real-world application with story-driven field notes and personal reflections on the EA experience.
 
 ### Latest Entries:
+* [002: Curiosity, Excitement, Urgency](posts/002-curiosity-excitement-urgency.md)
 * [001: Why and Why Now?](posts/001-why-and-why-now.md)
 
 ### What to Expect (Coming Over Time):
