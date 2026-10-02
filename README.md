@@ -4,6 +4,9 @@ Welcome! This space documents an evolving journey at the intersection of Executi
 
 I’m rolling out posts, frameworks, and insights over time—blending high-level strategy and real-world application with story-driven field notes and personal reflections on the EA experience.
 
+### Latest Entries:
+* [001: Why and Why Now?](posts/001-why-and-why-now.md)
+
 ### What to Expect (Coming Over Time):
 * **EA-Centric Workflows & Tools:** Practical use cases, prompt ideas, and stack reviews tailored specifically to the day-to-day work of Executive Assistants.
 * **Program Management & Advocacy:** Insights on scaling AI adoption across global teams and advocating for management support and tool access.
