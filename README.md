@@ -2,7 +2,7 @@
 
 Welcome! This space documents an evolving journey at the intersection of Executive Support and Artificial Intelligence—bringing you along the front lines of global program management from a longtime Lead EA and early AI adopter. 
 
-I’m rolling out posts, frameworks, and insights over time, blending high-level strategy with real-world application.
+I’m rolling out posts, frameworks, and insights over time—blending high-level strategy and real-world application with story-driven field notes and personal reflections on the EA experience.
 
 ### What to Expect (Coming Over Time):
 * **EA-Centric Workflows & Tools:** Practical use cases, prompt ideas, and stack reviews tailored specifically to the day-to-day work of Executive Assistants.
