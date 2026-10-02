@@ -1,2 +1,13 @@
 # ea-ai-chronicles
-Personal diary, strategy digest, and technical field notes from a longtime Senior &amp; Lead EA managing global enterprise AI adoption. Exploring EA-centric tools, workflows, program leadership, manager advocacy, community, self-accountability, and real-world experiments in human-AI collaboration.
+
+Welcome! This space documents an evolving journey at the intersection of Executive Support and Artificial Intelligence—bringing you along the front lines of global program management from a longtime Lead EA and early AI adopter. 
+
+I’m rolling out posts, frameworks, and insights over time, blending high-level strategy with real-world application.
+
+### What to Expect (Coming Over Time):
+* **EA-Centric Workflows & Tools:** Practical use cases, prompt ideas, and stack reviews tailored specifically to the day-to-day work of Executive Assistants.
+* **Program Management & Advocacy:** Insights on scaling AI adoption across global teams and advocating for management support and tool access.
+* **Community & Accountability:** Thoughts on peer learning, self-accountability, and navigating AI as an early adopter.
+* **Prompting & Interface Experiments:** Creative explorations and narrative pieces written from unique perspectives—including the AI interface itself.
+
+Consider this an open logbook as I write, share, and build. Thank you for following along!
